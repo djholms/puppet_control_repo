@@ -1,1 +1,2 @@
-# puppet_control_repo
+## Puppet control Repo
+Learning puppet course
